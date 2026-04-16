@@ -32,44 +32,29 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 CourseCraft — LMS Platform
-- Full stack LMS with Stripe payments & Clerk authentication  
-- AI chatbot integration for quiz generation  
-- Real-time progress tracking & completion system  
-- Automated email with PDF invoice  
-
-👉 Repo: https://github.com/tyagi1tushar/CourseCraft-LMS-fullstack  
-
----
-
 ### 🏥 CuraDesk — Hospital Management System
 - Role-based system (Admin / Doctor / Patient)  
 - Appointment booking with Stripe payments  
-- Email notifications & chatbot assistance  
+- Email notifications when user books a doctor / service
 - Cloudinary image uploads + dashboard management  
+- Dark mode enabled in admin panel
+- Chatbot assistance for guided doctor booking 
 
 👉 Repo: https://github.com/tyagi1tushar/curadesk-hospital-management-system  
 
 ---
 
-## 📊 GitHub Stats
+### 🎓 CourseCraft — LMS Platform
+- Full stack LMS with Stripe payments & Clerk authentication  
+- AI chatbot integration ( Logic Based ) for quiz generation 
+- Real-time progress tracking & completion system  
+- Automated email with PDF invoice and direct go to course button
+- Dark mode enabled in frontend and admin panel
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tyagi1tushar&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagi1tushar&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tyagi1tushar&theme=tokyonight"/>
-</p>
+👉 Repo: https://github.com/tyagi1tushar/CourseCraft-LMS-fullstack  
 
 ---
+
 
 ## 🌐 Connect With Me
 
