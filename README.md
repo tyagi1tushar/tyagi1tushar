@@ -37,7 +37,7 @@
 - Appointment booking with Stripe payments  
 - Email notifications when user books a doctor / service
 - Cloudinary image uploads + dashboard management  
-- Dark mode enabled in admin panel
+- Dark mode enabled admin panel
 - Chatbot assistance for guided doctor booking 
 
 👉 Repo: https://github.com/tyagi1tushar/curadesk-hospital-management-system  
@@ -49,7 +49,7 @@
 - AI chatbot integration ( Logic Based ) for quiz generation 
 - Real-time progress tracking & completion system  
 - Automated email with PDF invoice and direct go to course button
-- Dark mode enabled in frontend and admin panel
+- Dark mode enabled frontend and admin panel
 
 👉 Repo: https://github.com/tyagi1tushar/CourseCraft-LMS-fullstack  
 
