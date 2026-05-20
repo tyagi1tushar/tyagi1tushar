@@ -10,8 +10,9 @@
 
 # 👋 Hi, I'm Tushar Tyagi
 
-🚀 Full Stack Developer (MERN)  
-💡 I build real-world applications with clean UI and scalable backend systems  
+🚀 Full Stack + AI Developer (MERN + AI)
+💡 Building scalable web applications and intelligent AI systems
+🧠 Exploring RAG, OCR, conversational AI and modern backend architecture
 
 ---
 
@@ -34,17 +35,31 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 CuraDesk — Hospital Management System
-- Role-based system (Admin / Doctor / Patient)  
-- Appointment booking with Stripe payments  
-- Email notifications when user books a doctor / service
-- Cloudinary image uploads + dashboard management  
-- Dark mode enabled admin panel
-- Chatbot assistance for guided doctor booking 
+### 🏥 CuraDesk AI — AI Powered Hospital Management System
 
-👉 Repo: https://github.com/tyagi1tushar/curadesk-hospital-management-system  
+- Role-based healthcare workflow (Admin / Doctor / Patient)
+- Secure appointment booking + Stripe payments
+- AI chatbot for guided doctor discovery
+- OCR-powered medical report analysis (Tesseract)
+- RAG-based report Q&A using Gemini + ChromaDB
+- Conversational AI with Redis memory
+- Multi-page PDF understanding & semantic retrieval
+- Dockerized AI infrastructure
+
+👉 Repo: https://github.com/tyagi1tushar/curadesk-hospital-management-system
 
 ---
+
+🤖 AI & Backend Engineering
+
+- Gemini API
+- ChromaDB
+- Redis
+- RAG Pipelines
+- OCR (Tesseract)
+- Docker
+- Semantic Search
+- Conversational AI
 
 ### 🎓 CourseCraft — LMS Platform
 - Full stack LMS with Stripe payments & Clerk authentication  
@@ -76,9 +91,10 @@
 
 ## ⚡ About Me
 
-- 💻 Passionate about full-stack development  
-- 🧠 Strong focus on real-world problem solving  
-- 🚀 Always learning and building scalable applications  
+- 💻 Passionate about Full Stack + AI development
+- 🧠 Interested in RAG systems & intelligent applications
+- 🚀 Focused on scalable backend architecture and real-world products
+- 🌱 Continuously learning AI engineering & system design
 
 ---
 
