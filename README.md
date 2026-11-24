@@ -118,8 +118,8 @@ Tech: React, Node.js, Express, MongoDB, Clerk, Stripe, Tailwind CSS.
 
 * 🥇 Internal Round Winner – Smart India Hackathon 2024 (Top 25 out of 150+ teams).
 * 🏆 Finalist – Agents of SigNoz Hackathon 2026.
-* 💡 Solved 250+ DSA problems on LeetCode.
-* 📈 LeetCode maximum contest rating: 1700.
+* 💡 Solved 300+ DSA problems on LeetCode.
+* 📈 LeetCode maximum contest rating: 1756.
 
 
 ## 🌐 Connect With Me
