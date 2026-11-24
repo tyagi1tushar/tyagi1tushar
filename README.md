@@ -114,17 +114,6 @@ Tech: React, Node.js, Express, MongoDB, Clerk, Stripe, Tailwind CSS.
 🔗 https://github.com/tyagi1tushar/CourseCraft-LMS-fullstack.git
 
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tyagi1tushar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagi1tushar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=tyagi1tushar&theme=tokyonight&hide_border=true"/>
-</p>
-
-
 ## 🏆 Achievements
 
 * 🥇 Internal Round Winner – Smart India Hackathon 2024 (Top 25 out of 150+ teams).
