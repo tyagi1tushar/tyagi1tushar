@@ -10,7 +10,7 @@
   Building intelligent applications, scalable backend systems, and AI-powered products.
 </p>
 
-# 🚀 About Me
+## 🚀 About Me
 
 * 💻 Full Stack Developer working with the MERN stack and modern backend technologies.
 * 🧠 Building AI-powered applications using LLMs, RAG, OCR, and conversational AI.
@@ -20,7 +20,7 @@
 * 🎯 Focused on building practical engineering solutions to real-world problems.
 
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Languages
 
@@ -61,7 +61,7 @@ Tools & Infrastructure
 </p>
 
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 🏥 CuraDesk — Intelligent Healthcare Platform
 
@@ -114,7 +114,7 @@ Tech: React, Node.js, Express, MongoDB, Clerk, Stripe, Tailwind CSS.
 🔗 https://github.com/tyagi1tushar/CourseCraft-LMS-fullstack.git
 
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=tyagi1tushar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -125,7 +125,7 @@ Tech: React, Node.js, Express, MongoDB, Clerk, Stripe, Tailwind CSS.
 </p>
 
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 * 🥇 Internal Round Winner – Smart India Hackathon 2024 (Top 25 out of 150+ teams).
 * 🏆 Finalist – Agents of SigNoz Hackathon 2026.
@@ -133,7 +133,7 @@ Tech: React, Node.js, Express, MongoDB, Clerk, Stripe, Tailwind CSS.
 * 📈 LeetCode maximum contest rating: 1700.
 
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tushartyagi28">
