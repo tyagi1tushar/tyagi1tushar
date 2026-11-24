@@ -10,8 +10,6 @@
   Building intelligent applications, scalable backend systems, and AI-powered products.
 </p>
 
-⸻
-
 🚀 About Me
 
 * 💻 Full Stack Developer working with the MERN stack and modern backend technologies.
@@ -21,7 +19,6 @@
 * 🏆 Finalist – Agents of SigNoz Hackathon 2026.
 * 🎯 Focused on building practical engineering solutions to real-world problems.
 
-⸻
 
 🛠️ Tech Stack
 
@@ -63,7 +60,6 @@ Tools & Infrastructure
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
-⸻
 
 🚀 Featured Projects
 
@@ -84,7 +80,6 @@ Tech: React, Node.js, Express, MongoDB, Gemini API, LangChain, ChromaDB, Redis, 
 
 🔗 https://github.com/tyagi1tushar/curadesk-hospital-management-system.git
 
-⸻
 
 🔭 CuraScope — AI Observability Platform
 
@@ -101,7 +96,6 @@ Tech: Next.js, Vite, Node.js, Docker, SigNoz, AI Engineering.
 
 🔗 https://github.com/tyagi1tushar/curascope.git
 
-⸻
 
 🎓 CourseCraft — Full Stack Learning Management System
 
@@ -117,9 +111,8 @@ A full-stack LMS platform designed to manage online courses, payments, and learn
 
 Tech: React, Node.js, Express, MongoDB, Clerk, Stripe, Tailwind CSS.
 
-🔗 
+🔗 https://github.com/tyagi1tushar/CourseCraft-LMS-fullstack.git
 
-⸻
 
 📊 GitHub Statistics
 
@@ -131,7 +124,6 @@ Tech: React, Node.js, Express, MongoDB, Clerk, Stripe, Tailwind CSS.
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=tyagi1tushar&theme=tokyonight&hide_border=true"/>
 </p>
 
-⸻
 
 🏆 Achievements
 
@@ -140,7 +132,6 @@ Tech: React, Node.js, Express, MongoDB, Clerk, Stripe, Tailwind CSS.
 * 💡 Solved 250+ DSA problems on LeetCode.
 * 📈 LeetCode maximum contest rating: 1700.
 
-⸻
 
 🌐 Connect With Me
 
@@ -153,7 +144,6 @@ Tech: React, Node.js, Express, MongoDB, Clerk, Stripe, Tailwind CSS.
   </a>
 </p>
 
-⸻
 
 <p align="center">
   <i>Building systems. Exploring intelligence. Engineering solutions.</i>
